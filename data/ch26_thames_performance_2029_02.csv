@@ -1,0 +1,2 @@
+collection_period,opening_balance,loans_opening,interest_collected,scheduled_principal,prepayments,defaulted_balance,principal_recoveries,arrears_interest_recovered,realised_losses,closing_balance,loans_closing,loans_redeemed,repossessions_sold,arrears_1_3m_pct,arrears_3_6m_pct,arrears_6m_plus_pct,cpr_annualised_pct,hpi_index
+2029-02,504515661.01,2585,1883721.38,1170444.74,3077367.21,0.0,0.0,0.0,0.0,500267849.06,2573,12,0,0.859,0.292,0.168,7.09,1.0421

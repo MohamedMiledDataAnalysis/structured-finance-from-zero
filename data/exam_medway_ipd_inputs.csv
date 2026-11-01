@@ -1,0 +1,20 @@
+item,ipd1,ipd2
+ipd_date,2029-03-15,2029-06-15
+period_start,2028-12-15,2029-03-15
+days,90,92
+collection_periods,Dec 2028 - Feb 2029,Mar 2029 - May 2029
+revenue_collections,2400538.74,1583472.28
+scheduled_principal,1446445.83,1389062.89
+prepayments,4725188.30,2435806.87
+recoveries,143260.00,1874350.00
+realised_losses,38417.62,712946.38
+extra_senior_expenses,0.00,74500.00
+open_opening_pool,204225518.76,
+open_class_a,185318971.64,
+open_class_b,14400000.00,
+open_class_z,4568431.27,
+open_pdl_a,0.00,
+open_pdl_b,0.00,
+open_pdl_z,61884.15,
+open_reserve,384612.90,
+open_deferred_b,0.00,

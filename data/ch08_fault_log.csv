@@ -1,0 +1,21 @@
+fault,loan_id,field,clean_value,raw_value,category,check,description
+F01,KBS-000108,gross_income,25400,,Completeness,K1,income not loaded (blank)
+F02,KBS-002437,gross_income,21400,,Completeness,K1,income not loaded (blank)
+F03,KBS-001026,original_valuation,565000,,Completeness,K1,valuation not loaded (blank)
+F04,KBS-000450,,,(row missing),Completeness,K3/K4,loan dropped from the extract
+F05,KBS-001386,,,(row twice),Completeness,K2/K4,loan extracted twice
+F06,KBS-001123,origination_date,2024-02-08,2024-02-30,Validity,V2,impossible date (30 February)
+F07,KBS-000262,product_type,5Y Fixed,5Y Fixd,Validity,V1,list value mistyped
+F08,KBS-001138,region,London,Greater London,Validity,V1,value not in the region list
+F09,KBS-000688,current_rate,4.36,0.0436,Reasonableness,R3/P1/P2,"rate entered as a decimal, not a percentage"
+F10,KBS-000410,months_in_arrears,0,3,Reasonableness,R4,arrears above the eligibility limit of 1 month
+F11,KBS-002793,original_valuation,459000,4590000,Reasonableness,R1,valuation with an extra zero
+F12,KBS-002463,gross_income,17400,174000,Reasonableness,R2,income with an extra zero
+F13,KBS-001219,remaining_term_months,227,239,Consistency,C1,remaining term not equal to original term minus payments made
+F14,KBS-000404,remaining_term_months,163,180,Consistency,C1,remaining term equal to original term (not updated)
+F15,KBS-002092,fixed_rate_end_date,2028-05-13,2026-05-13,Consistency,C3,fixed-rate end date two years early (before the cut-off date)
+F16,KBS-000708,tracker_margin,0.97,,Consistency,C4,tracker loan with no margin
+F17,KBS-002337,first_payment_date,2025-04-18,2025-04-28,Consistency,C2,first payment date not one month after origination
+F18,KBS-000390,current_balance,152500.00,147500.00,Recalculation,P2,interest-only balance below the original balance
+F19,KBS-001676,current_balance,97714.39,97174.39,Recalculation,P2,two digits of the balance transposed
+F20,KBS-000632,monthly_payment,883.45,901.45,Recalculation,P1,payment mistyped (+18.00)

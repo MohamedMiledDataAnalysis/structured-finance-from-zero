@@ -1,0 +1,9 @@
+issue_id,loan_id,field,raw_value,issue,treatment
+DQ01,MRS-00024,loan_id,MRS-00024,Duplicate loan ID (identical row appears twice),Count the loan once (exclude the second row)
+DQ02,MRS-00217,current_balance,1460872.80,Current balance above original balance (decimal shifted: 10 times the true balance),Use 146087.28 (reported value / 10; agrees with indexed_ltv and original balance); confirm with servicer
+DQ03,MRS-00699,maturity_date,1956-07-09,Maturity date before origination date (century error),Use origination date + original term = 2056-07-09
+DQ04,MRS-00439,indexed_ltv,62.91,Indexed LTV inconsistent with current balance / indexed valuation (field equals original LTV),Recompute indexed LTV for every loan from current balance and indexed valuation
+DQ05,MRS-00982,region,(blank),Region missing,Report in an Unknown row of the region strat; request the property postcode
+DQ06,MRS-00023;MRS-00116;MRS-00175;MRS-00263;MRS-00450;MRS-00659;MRS-00708;MRS-00903;MRS-00970,region,Yorkshire & Humber,Region spelled two ways (9 loans),Map to Yorkshire and the Humber
+DQ07,MRS-00501,current_rate,0.00,Zero current interest rate on a fixed-rate loan,Exclude from the WA current rate (keep in all other figures); query servicer
+DQ08,MRS-00199,months_in_arrears,-2,Negative months in arrears (impossible),Report in an Unknown row of the arrears strat; query servicer

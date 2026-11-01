@@ -1,0 +1,74 @@
+date,description,debit,credit,balance
+2027-03-18,Kingsbridge: collections 1 Feb - 17 Mar 2027 paid over at closing,0.00,12561657.19,12561657.19
+2027-03-19,Kingsbridge: collections sweep,0.00,436771.97,12998429.16
+2027-03-22,Kingsbridge: collections sweep,0.00,120807.88,13119237.04
+2027-03-23,Kingsbridge: collections sweep,0.00,616084.93,13735321.97
+2027-03-24,Kingsbridge: collections sweep,0.00,637040.71,14372362.68
+2027-03-25,Kingsbridge: collections sweep,0.00,587884.23,14960246.91
+2027-03-30,Kingsbridge: collections sweep,0.00,351272.12,15311519.03
+2027-03-31,Kingsbridge: collections sweep,0.00,429390.31,15740909.34
+2027-04-01,Kingsbridge: collections sweep,0.00,277728.94,16018638.28
+2027-04-02,Kingsbridge: collections sweep,0.00,237882.49,16256520.77
+2027-04-05,Kingsbridge: collections sweep,0.00,300123.94,16556644.71
+2027-04-06,Kingsbridge: collections sweep,0.00,241461.43,16798106.14
+2027-04-07,Kingsbridge: collections sweep,0.00,118836.97,16916943.11
+2027-04-08,Kingsbridge: collections sweep,0.00,330134.89,17247078.00
+2027-04-09,Kingsbridge: collections sweep,0.00,286915.54,17533993.54
+2027-04-12,Kingsbridge: collections sweep,0.00,211014.06,17745007.60
+2027-04-13,Kingsbridge: collections sweep,0.00,82681.82,17827689.42
+2027-04-14,Kingsbridge: collections sweep,0.00,257017.41,18084706.83
+2027-04-15,Kingsbridge: collections sweep,0.00,135200.95,18219907.78
+2027-04-16,Kingsbridge: collections sweep,0.00,343152.91,18563060.69
+2027-04-19,Kingsbridge: collections sweep,0.00,358161.11,18921221.80
+2027-04-20,Kingsbridge: collections sweep,0.00,458905.93,19380127.73
+2027-04-22,Kingsbridge: collections sweep,0.00,487002.74,19867130.47
+2027-04-23,Kingsbridge: collections sweep,0.00,394411.77,20261542.24
+2027-04-26,Kingsbridge: collections sweep,0.00,108148.32,20369690.56
+2027-04-27,Kingsbridge: collections sweep,0.00,51094.68,20420785.24
+2027-04-28,Kingsbridge: collections sweep,0.00,290993.03,20711778.27
+2027-04-29,Kingsbridge: collections sweep,0.00,212749.97,20924528.24
+2027-04-30,Kingsbridge: collections sweep,0.00,594632.61,21519160.85
+2027-05-04,Kingsbridge: collections sweep,0.00,685845.47,22205006.32
+2027-05-05,Kingsbridge: collections sweep,0.00,237920.55,22442926.87
+2027-05-06,Kingsbridge: collections sweep,0.00,340509.61,22783436.48
+2027-05-07,Kingsbridge: collections sweep,0.00,358173.10,23141609.58
+2027-05-07,Direct Debit indemnity claim KBS-000417 (duplicate 15 Apr),1006.36,0.00,23140603.22
+2027-05-10,Kingsbridge: collections sweep,0.00,489839.85,23630443.07
+2027-05-11,Kingsbridge: collections sweep,0.00,432071.75,24062514.82
+2027-05-12,Kingsbridge: collections sweep,0.00,723202.67,24785717.49
+2027-05-13,Kingsbridge: collections sweep,0.00,674792.68,25460510.17
+2027-05-14,Kingsbridge: collections sweep,0.00,415939.45,25876449.62
+2027-05-17,Kingsbridge: collections sweep,0.00,294334.16,26170783.78
+2027-05-18,Kingsbridge: collections sweep,0.00,713361.01,26884144.79
+2027-05-19,Kingsbridge: collections sweep,0.00,578425.99,27462570.78
+2027-05-20,Kingsbridge: collections sweep,0.00,638951.68,28101522.46
+2027-05-21,Kingsbridge: collections sweep,0.00,381867.11,28483389.57
+2027-05-24,Kingsbridge: collections sweep,0.00,454326.63,28937716.20
+2027-05-25,Kingsbridge: collections sweep,0.00,145643.96,29083360.16
+2027-05-26,Kingsbridge: collections sweep,0.00,282290.14,29365650.30
+2027-05-27,Kingsbridge: collections sweep,0.00,508886.68,29874536.98
+2027-05-28,Kingsbridge: collections sweep,0.00,401796.98,30276333.96
+2027-06-01,Kingsbridge: collections sweep,0.00,586222.72,30862556.68
+2027-06-02,Kingsbridge: collections sweep,0.00,414464.22,31277020.90
+2027-06-03,Kingsbridge: collections sweep,0.00,378468.55,31655489.45
+2027-06-04,Kingsbridge: collections sweep,0.00,371244.55,32026734.00
+2027-06-07,Kingsbridge: collections sweep,0.00,270655.48,32297389.48
+2027-06-08,Kingsbridge: collections sweep,0.00,632127.36,32929516.84
+2027-06-09,Kingsbridge: collections sweep,0.00,325439.34,33254956.18
+2027-06-10,Kingsbridge: collections sweep,0.00,411170.76,33666126.94
+2027-06-11,Kingsbridge: collections sweep,0.00,647032.37,34313159.31
+2027-06-14,Kingsbridge: collections sweep,0.00,704076.88,35017236.19
+2027-06-15,Kingsbridge: collections sweep,0.00,406310.08,35423546.27
+2027-06-15,Northgate Bank plc: swap net amount,0.00,595373.72,36018919.99
+2027-06-15,Albion Trustee Services: trustee fee,6095.89,0.00,36012824.10
+2027-06-15,Albion Bank: paying agent and agent bank fee,2438.36,0.00,36010385.74
+2027-06-15,Meridian: corporate services fee,4876.71,0.00,36005509.03
+2027-06-15,Kingsbridge: cash management fee,12191.78,0.00,35993317.25
+2027-06-15,Kingsbridge: servicing fee,313824.04,0.00,35679493.21
+2027-06-15,"Issuer expenses (listing, audit, ratings)",29260.27,0.00,35650232.94
+2027-06-15,Paying agent: Class A interest and principal,27479402.82,0.00,8170830.12
+2027-06-15,Paying agent: Class B interest,376067.67,0.00,7794762.45
+2027-06-15,Paying agent: Class C interest,244506.16,0.00,7550256.29
+2027-06-15,Paying agent: Class D interest,184254.38,0.00,7366001.91
+2027-06-15,Paying agent: Class E interest,167941.78,0.00,7198060.13
+2027-06-15,Kingsbridge: subordinated loan interest and principal,2636070.54,0.00,4561989.59

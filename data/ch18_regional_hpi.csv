@@ -1,0 +1,529 @@
+region,quarter,hpi
+London,2016Q1,100.0
+London,2016Q2,101.1
+London,2016Q3,101.7
+London,2016Q4,102.8
+London,2017Q1,103.4
+London,2017Q2,104.0
+London,2017Q3,104.9
+London,2017Q4,105.7
+London,2018Q1,106.0
+London,2018Q2,106.8
+London,2018Q3,106.5
+London,2018Q4,106.7
+London,2019Q1,106.7
+London,2019Q2,107.2
+London,2019Q3,107.1
+London,2019Q4,107.3
+London,2020Q1,108.4
+London,2020Q2,110.2
+London,2020Q3,111.6
+London,2020Q4,112.2
+London,2021Q1,114.6
+London,2021Q2,116.5
+London,2021Q3,119.3
+London,2021Q4,121.8
+London,2022Q1,123.4
+London,2022Q2,125.1
+London,2022Q3,126.6
+London,2022Q4,128.7
+London,2023Q1,127.3
+London,2023Q2,126.3
+London,2023Q3,124.7
+London,2023Q4,123.7
+London,2024Q1,124.1
+London,2024Q2,124.5
+London,2024Q3,124.9
+London,2024Q4,125.7
+London,2025Q1,126.0
+London,2025Q2,126.4
+London,2025Q3,126.9
+London,2025Q4,127.6
+London,2026Q1,127.6
+London,2026Q2,127.5
+London,2026Q3,127.8
+London,2026Q4,127.5
+South East,2016Q1,100.0
+South East,2016Q2,101.3
+South East,2016Q3,102.7
+South East,2016Q4,104.0
+South East,2017Q1,105.3
+South East,2017Q2,105.7
+South East,2017Q3,106.6
+South East,2017Q4,107.4
+South East,2018Q1,108.2
+South East,2018Q2,108.7
+South East,2018Q3,109.5
+South East,2018Q4,110.0
+South East,2019Q1,110.7
+South East,2019Q2,110.7
+South East,2019Q3,111.4
+South East,2019Q4,111.8
+South East,2020Q1,113.4
+South East,2020Q2,115.1
+South East,2020Q3,116.9
+South East,2020Q4,118.7
+South East,2021Q1,121.7
+South East,2021Q2,124.3
+South East,2021Q3,127.1
+South East,2021Q4,129.9
+South East,2022Q1,132.4
+South East,2022Q2,134.4
+South East,2022Q3,136.8
+South East,2022Q4,138.4
+South East,2023Q1,137.3
+South East,2023Q2,136.2
+South East,2023Q3,135.6
+South East,2023Q4,135.0
+South East,2024Q1,135.2
+South East,2024Q2,136.3
+South East,2024Q3,137.8
+South East,2024Q4,138.2
+South East,2025Q1,138.3
+South East,2025Q2,139.5
+South East,2025Q3,140.1
+South East,2025Q4,140.7
+South East,2026Q1,140.8
+South East,2026Q2,141.5
+South East,2026Q3,141.5
+South East,2026Q4,141.7
+East of England,2016Q1,100.0
+East of England,2016Q2,100.9
+East of England,2016Q3,101.8
+East of England,2016Q4,103.1
+East of England,2017Q1,104.0
+East of England,2017Q2,104.7
+East of England,2017Q3,105.9
+East of England,2017Q4,107.6
+East of England,2018Q1,108.4
+East of England,2018Q2,108.4
+East of England,2018Q3,108.8
+East of England,2018Q4,109.5
+East of England,2019Q1,109.9
+East of England,2019Q2,110.2
+East of England,2019Q3,111.1
+East of England,2019Q4,111.8
+East of England,2020Q1,113.6
+East of England,2020Q2,114.7
+East of England,2020Q3,116.5
+East of England,2020Q4,117.8
+East of England,2021Q1,120.9
+East of England,2021Q2,123.9
+East of England,2021Q3,126.4
+East of England,2021Q4,129.3
+East of England,2022Q1,131.7
+East of England,2022Q2,134.4
+East of England,2022Q3,136.6
+East of England,2022Q4,138.5
+East of England,2023Q1,137.7
+East of England,2023Q2,136.9
+East of England,2023Q3,136.3
+East of England,2023Q4,135.1
+East of England,2024Q1,135.6
+East of England,2024Q2,136.1
+East of England,2024Q3,136.8
+East of England,2024Q4,137.8
+East of England,2025Q1,138.9
+East of England,2025Q2,138.8
+East of England,2025Q3,139.4
+East of England,2025Q4,140.1
+East of England,2026Q1,140.7
+East of England,2026Q2,140.6
+East of England,2026Q3,140.9
+East of England,2026Q4,141.3
+South West,2016Q1,100.0
+South West,2016Q2,101.2
+South West,2016Q3,102.1
+South West,2016Q4,103.0
+South West,2017Q1,104.8
+South West,2017Q2,106.1
+South West,2017Q3,107.3
+South West,2017Q4,108.7
+South West,2018Q1,109.2
+South West,2018Q2,110.1
+South West,2018Q3,111.1
+South West,2018Q4,112.0
+South West,2019Q1,112.7
+South West,2019Q2,113.3
+South West,2019Q3,113.7
+South West,2019Q4,114.3
+South West,2020Q1,115.8
+South West,2020Q2,117.0
+South West,2020Q3,118.4
+South West,2020Q4,119.9
+South West,2021Q1,123.0
+South West,2021Q2,126.0
+South West,2021Q3,128.7
+South West,2021Q4,132.0
+South West,2022Q1,134.2
+South West,2022Q2,137.3
+South West,2022Q3,139.8
+South West,2022Q4,142.4
+South West,2023Q1,141.5
+South West,2023Q2,140.9
+South West,2023Q3,140.1
+South West,2023Q4,139.9
+South West,2024Q1,140.8
+South West,2024Q2,142.0
+South West,2024Q3,142.9
+South West,2024Q4,143.6
+South West,2025Q1,144.4
+South West,2025Q2,146.0
+South West,2025Q3,146.3
+South West,2025Q4,146.9
+South West,2026Q1,147.5
+South West,2026Q2,148.1
+South West,2026Q3,148.6
+South West,2026Q4,148.8
+East Midlands,2016Q1,100.0
+East Midlands,2016Q2,101.9
+East Midlands,2016Q3,103.1
+East Midlands,2016Q4,104.1
+East Midlands,2017Q1,105.4
+East Midlands,2017Q2,106.4
+East Midlands,2017Q3,107.4
+East Midlands,2017Q4,108.6
+East Midlands,2018Q1,109.4
+East Midlands,2018Q2,109.9
+East Midlands,2018Q3,110.9
+East Midlands,2018Q4,111.2
+East Midlands,2019Q1,112.0
+East Midlands,2019Q2,112.4
+East Midlands,2019Q3,112.9
+East Midlands,2019Q4,113.1
+East Midlands,2020Q1,114.9
+East Midlands,2020Q2,116.5
+East Midlands,2020Q3,119.0
+East Midlands,2020Q4,121.2
+East Midlands,2021Q1,124.5
+East Midlands,2021Q2,127.0
+East Midlands,2021Q3,130.0
+East Midlands,2021Q4,133.0
+East Midlands,2022Q1,136.1
+East Midlands,2022Q2,138.8
+East Midlands,2022Q3,141.2
+East Midlands,2022Q4,143.8
+East Midlands,2023Q1,143.3
+East Midlands,2023Q2,142.7
+East Midlands,2023Q3,141.7
+East Midlands,2023Q4,141.4
+East Midlands,2024Q1,142.8
+East Midlands,2024Q2,143.6
+East Midlands,2024Q3,144.6
+East Midlands,2024Q4,145.4
+East Midlands,2025Q1,146.2
+East Midlands,2025Q2,146.7
+East Midlands,2025Q3,147.6
+East Midlands,2025Q4,148.9
+East Midlands,2026Q1,149.2
+East Midlands,2026Q2,149.9
+East Midlands,2026Q3,150.2
+East Midlands,2026Q4,150.3
+West Midlands,2016Q1,100.0
+West Midlands,2016Q2,101.3
+West Midlands,2016Q3,103.0
+West Midlands,2016Q4,104.2
+West Midlands,2017Q1,105.2
+West Midlands,2017Q2,106.7
+West Midlands,2017Q3,108.0
+West Midlands,2017Q4,109.6
+West Midlands,2018Q1,110.2
+West Midlands,2018Q2,111.0
+West Midlands,2018Q3,111.8
+West Midlands,2018Q4,112.5
+West Midlands,2019Q1,112.6
+West Midlands,2019Q2,113.4
+West Midlands,2019Q3,114.1
+West Midlands,2019Q4,114.6
+West Midlands,2020Q1,116.5
+West Midlands,2020Q2,118.8
+West Midlands,2020Q3,120.2
+West Midlands,2020Q4,122.0
+West Midlands,2021Q1,124.9
+West Midlands,2021Q2,128.3
+West Midlands,2021Q3,131.8
+West Midlands,2021Q4,135.1
+West Midlands,2022Q1,137.9
+West Midlands,2022Q2,140.4
+West Midlands,2022Q3,142.8
+West Midlands,2022Q4,145.1
+West Midlands,2023Q1,144.8
+West Midlands,2023Q2,144.2
+West Midlands,2023Q3,144.0
+West Midlands,2023Q4,143.4
+West Midlands,2024Q1,144.8
+West Midlands,2024Q2,145.9
+West Midlands,2024Q3,146.9
+West Midlands,2024Q4,148.4
+West Midlands,2025Q1,148.8
+West Midlands,2025Q2,149.6
+West Midlands,2025Q3,150.5
+West Midlands,2025Q4,151.7
+West Midlands,2026Q1,152.7
+West Midlands,2026Q2,153.5
+West Midlands,2026Q3,154.4
+West Midlands,2026Q4,155.6
+Wales,2016Q1,100.0
+Wales,2016Q2,101.5
+Wales,2016Q3,103.1
+Wales,2016Q4,104.7
+Wales,2017Q1,105.9
+Wales,2017Q2,106.8
+Wales,2017Q3,108.0
+Wales,2017Q4,109.0
+Wales,2018Q1,109.8
+Wales,2018Q2,110.8
+Wales,2018Q3,111.3
+Wales,2018Q4,111.8
+Wales,2019Q1,112.2
+Wales,2019Q2,112.5
+Wales,2019Q3,113.1
+Wales,2019Q4,113.7
+Wales,2020Q1,115.2
+Wales,2020Q2,116.8
+Wales,2020Q3,118.8
+Wales,2020Q4,120.2
+Wales,2021Q1,123.2
+Wales,2021Q2,126.5
+Wales,2021Q3,130.2
+Wales,2021Q4,133.3
+Wales,2022Q1,136.2
+Wales,2022Q2,138.6
+Wales,2022Q3,141.1
+Wales,2022Q4,143.4
+Wales,2023Q1,142.8
+Wales,2023Q2,142.2
+Wales,2023Q3,141.2
+Wales,2023Q4,141.4
+Wales,2024Q1,142.8
+Wales,2024Q2,143.6
+Wales,2024Q3,144.1
+Wales,2024Q4,145.1
+Wales,2025Q1,145.8
+Wales,2025Q2,147.1
+Wales,2025Q3,148.1
+Wales,2025Q4,148.9
+Wales,2026Q1,149.2
+Wales,2026Q2,150.0
+Wales,2026Q3,150.5
+Wales,2026Q4,151.5
+Yorkshire and the Humber,2016Q1,100.0
+Yorkshire and the Humber,2016Q2,101.3
+Yorkshire and the Humber,2016Q3,102.4
+Yorkshire and the Humber,2016Q4,103.6
+Yorkshire and the Humber,2017Q1,104.6
+Yorkshire and the Humber,2017Q2,105.8
+Yorkshire and the Humber,2017Q3,106.4
+Yorkshire and the Humber,2017Q4,107.5
+Yorkshire and the Humber,2018Q1,108.7
+Yorkshire and the Humber,2018Q2,109.8
+Yorkshire and the Humber,2018Q3,111.2
+Yorkshire and the Humber,2018Q4,112.0
+Yorkshire and the Humber,2019Q1,112.4
+Yorkshire and the Humber,2019Q2,113.3
+Yorkshire and the Humber,2019Q3,114.3
+Yorkshire and the Humber,2019Q4,115.0
+Yorkshire and the Humber,2020Q1,117.6
+Yorkshire and the Humber,2020Q2,119.0
+Yorkshire and the Humber,2020Q3,121.2
+Yorkshire and the Humber,2020Q4,123.5
+Yorkshire and the Humber,2021Q1,126.2
+Yorkshire and the Humber,2021Q2,129.7
+Yorkshire and the Humber,2021Q3,133.2
+Yorkshire and the Humber,2021Q4,137.2
+Yorkshire and the Humber,2022Q1,139.6
+Yorkshire and the Humber,2022Q2,142.3
+Yorkshire and the Humber,2022Q3,144.4
+Yorkshire and the Humber,2022Q4,147.6
+Yorkshire and the Humber,2023Q1,146.9
+Yorkshire and the Humber,2023Q2,146.8
+Yorkshire and the Humber,2023Q3,145.5
+Yorkshire and the Humber,2023Q4,144.8
+Yorkshire and the Humber,2024Q1,146.4
+Yorkshire and the Humber,2024Q2,147.6
+Yorkshire and the Humber,2024Q3,148.5
+Yorkshire and the Humber,2024Q4,150.3
+Yorkshire and the Humber,2025Q1,151.0
+Yorkshire and the Humber,2025Q2,151.9
+Yorkshire and the Humber,2025Q3,153.0
+Yorkshire and the Humber,2025Q4,154.2
+Yorkshire and the Humber,2026Q1,154.8
+Yorkshire and the Humber,2026Q2,156.3
+Yorkshire and the Humber,2026Q3,156.9
+Yorkshire and the Humber,2026Q4,157.2
+North West,2016Q1,100.0
+North West,2016Q2,101.4
+North West,2016Q3,102.2
+North West,2016Q4,103.8
+North West,2017Q1,105.3
+North West,2017Q2,106.7
+North West,2017Q3,108.3
+North West,2017Q4,109.8
+North West,2018Q1,110.9
+North West,2018Q2,111.4
+North West,2018Q3,112.4
+North West,2018Q4,113.7
+North West,2019Q1,114.4
+North West,2019Q2,115.4
+North West,2019Q3,115.8
+North West,2019Q4,116.6
+North West,2020Q1,119.1
+North West,2020Q2,121.7
+North West,2020Q3,123.6
+North West,2020Q4,126.0
+North West,2021Q1,129.3
+North West,2021Q2,132.5
+North West,2021Q3,135.8
+North West,2021Q4,139.5
+North West,2022Q1,142.4
+North West,2022Q2,145.2
+North West,2022Q3,148.1
+North West,2022Q4,151.1
+North West,2023Q1,150.8
+North West,2023Q2,150.2
+North West,2023Q3,149.8
+North West,2023Q4,150.1
+North West,2024Q1,151.3
+North West,2024Q2,152.4
+North West,2024Q3,153.2
+North West,2024Q4,154.3
+North West,2025Q1,155.0
+North West,2025Q2,156.4
+North West,2025Q3,157.3
+North West,2025Q4,158.4
+North West,2026Q1,158.8
+North West,2026Q2,159.8
+North West,2026Q3,160.3
+North West,2026Q4,161.3
+North East,2016Q1,100.0
+North East,2016Q2,101.3
+North East,2016Q3,102.8
+North East,2016Q4,103.7
+North East,2017Q1,104.6
+North East,2017Q2,105.3
+North East,2017Q3,106.0
+North East,2017Q4,107.3
+North East,2018Q1,108.5
+North East,2018Q2,109.3
+North East,2018Q3,109.2
+North East,2018Q4,110.0
+North East,2019Q1,110.4
+North East,2019Q2,111.1
+North East,2019Q3,112.1
+North East,2019Q4,112.4
+North East,2020Q1,114.1
+North East,2020Q2,115.7
+North East,2020Q3,117.9
+North East,2020Q4,119.7
+North East,2021Q1,122.6
+North East,2021Q2,125.6
+North East,2021Q3,128.7
+North East,2021Q4,131.7
+North East,2022Q1,134.6
+North East,2022Q2,137.4
+North East,2022Q3,140.0
+North East,2022Q4,142.6
+North East,2023Q1,142.7
+North East,2023Q2,142.8
+North East,2023Q3,142.0
+North East,2023Q4,141.1
+North East,2024Q1,142.4
+North East,2024Q2,143.5
+North East,2024Q3,144.5
+North East,2024Q4,145.9
+North East,2025Q1,146.6
+North East,2025Q2,147.3
+North East,2025Q3,148.2
+North East,2025Q4,149.6
+North East,2026Q1,150.2
+North East,2026Q2,150.3
+North East,2026Q3,151.1
+North East,2026Q4,152.2
+Scotland,2016Q1,100.0
+Scotland,2016Q2,101.4
+Scotland,2016Q3,102.7
+Scotland,2016Q4,103.8
+Scotland,2017Q1,105.0
+Scotland,2017Q2,106.4
+Scotland,2017Q3,107.8
+Scotland,2017Q4,108.8
+Scotland,2018Q1,110.2
+Scotland,2018Q2,111.1
+Scotland,2018Q3,111.7
+Scotland,2018Q4,112.4
+Scotland,2019Q1,112.4
+Scotland,2019Q2,112.7
+Scotland,2019Q3,113.4
+Scotland,2019Q4,114.2
+Scotland,2020Q1,116.3
+Scotland,2020Q2,118.0
+Scotland,2020Q3,119.9
+Scotland,2020Q4,121.3
+Scotland,2021Q1,124.4
+Scotland,2021Q2,127.9
+Scotland,2021Q3,130.7
+Scotland,2021Q4,134.0
+Scotland,2022Q1,136.6
+Scotland,2022Q2,139.1
+Scotland,2022Q3,141.5
+Scotland,2022Q4,144.1
+Scotland,2023Q1,143.7
+Scotland,2023Q2,143.0
+Scotland,2023Q3,142.5
+Scotland,2023Q4,142.4
+Scotland,2024Q1,142.5
+Scotland,2024Q2,144.0
+Scotland,2024Q3,144.1
+Scotland,2024Q4,145.3
+Scotland,2025Q1,146.2
+Scotland,2025Q2,147.0
+Scotland,2025Q3,147.2
+Scotland,2025Q4,148.0
+Scotland,2026Q1,148.3
+Scotland,2026Q2,148.8
+Scotland,2026Q3,149.9
+Scotland,2026Q4,150.6
+Northern Ireland,2016Q1,100.0
+Northern Ireland,2016Q2,101.0
+Northern Ireland,2016Q3,102.6
+Northern Ireland,2016Q4,104.3
+Northern Ireland,2017Q1,106.2
+Northern Ireland,2017Q2,107.8
+Northern Ireland,2017Q3,109.7
+Northern Ireland,2017Q4,111.1
+Northern Ireland,2018Q1,112.3
+Northern Ireland,2018Q2,113.8
+Northern Ireland,2018Q3,115.0
+Northern Ireland,2018Q4,116.1
+Northern Ireland,2019Q1,116.6
+Northern Ireland,2019Q2,116.4
+Northern Ireland,2019Q3,116.9
+Northern Ireland,2019Q4,117.9
+Northern Ireland,2020Q1,120.2
+Northern Ireland,2020Q2,122.2
+Northern Ireland,2020Q3,124.0
+Northern Ireland,2020Q4,126.4
+Northern Ireland,2021Q1,129.7
+Northern Ireland,2021Q2,133.2
+Northern Ireland,2021Q3,137.2
+Northern Ireland,2021Q4,141.3
+Northern Ireland,2022Q1,144.1
+Northern Ireland,2022Q2,146.9
+Northern Ireland,2022Q3,149.7
+Northern Ireland,2022Q4,152.6
+Northern Ireland,2023Q1,152.7
+Northern Ireland,2023Q2,152.2
+Northern Ireland,2023Q3,152.4
+Northern Ireland,2023Q4,152.4
+Northern Ireland,2024Q1,153.4
+Northern Ireland,2024Q2,155.3
+Northern Ireland,2024Q3,156.5
+Northern Ireland,2024Q4,158.4
+Northern Ireland,2025Q1,160.7
+Northern Ireland,2025Q2,162.6
+Northern Ireland,2025Q3,163.7
+Northern Ireland,2025Q4,165.4
+Northern Ireland,2026Q1,166.4
+Northern Ireland,2026Q2,167.9
+Northern Ireland,2026Q3,169.6
+Northern Ireland,2026Q4,171.0

@@ -1,0 +1,74 @@
+order_id,note_class,investor_type,order_gbp,limit_margin_bp,time_entered
+A01,A,Insurer or pension,75000000,,08:11
+A02,A,Insurer or pension,20000000,,08:16
+A03,A,Insurer or pension,40000000,,08:22
+A04,A,Bank treasury,10000000,,08:32
+A05,A,Insurer or pension,25000000,,08:35
+A06,A,Bank treasury,15000000,,08:45
+A07,A,Bank treasury,50000000,,08:55
+A08,A,Bank treasury,5000000,,08:59
+A09,A,Hedge fund,25000000,65,09:07
+A10,A,Asset manager,60000000,,09:16
+A11,A,Asset manager,50000000,,09:23
+A12,A,Asset manager,15000000,,09:26
+A13,A,Insurer or pension,5000000,,09:35
+A14,A,Asset manager,60000000,64,09:39
+A15,A,Hedge fund,30000000,,09:48
+A16,A,Asset manager,40000000,,09:57
+A17,A,Insurer or pension,15000000,,09:59
+A18,A,Asset manager,10000000,,10:09
+A19,A,Bank treasury,40000000,,10:19
+A20,A,Asset manager,60000000,,10:20
+A21,A,Hedge fund,40000000,,10:30
+A22,A,Bank treasury,10000000,,10:38
+A23,A,Hedge fund,75000000,,10:47
+A24,A,Bank treasury,50000000,,10:48
+A25,A,Insurer or pension,30000000,,10:59
+A26,A,Asset manager,20000000,64,11:07
+A27,A,Bank treasury,75000000,,11:12
+A28,A,Hedge fund,60000000,,11:16
+A29,A,Asset manager,30000000,,11:29
+A30,A,Hedge fund,5000000,,11:34
+A31,A,Insurer or pension,5000000,,11:41
+A32,A,Asset manager,60000000,,11:45
+A33,A,Asset manager,25000000,65,11:52
+A34,A,Asset manager,5000000,,11:59
+B01,B,Hedge fund,3000000,,08:13
+B02,B,Insurer or pension,5000000,,08:18
+B03,B,Insurer or pension,3000000,,08:24
+B04,B,Asset manager,2000000,,08:31
+B05,B,Asset manager,7000000,112,08:38
+B06,B,Asset manager,10000000,,08:48
+B07,B,Hedge fund,2000000,,08:52
+B08,B,Asset manager,2000000,,08:58
+B09,B,Bank treasury,10000000,,09:03
+B10,B,Asset manager,5000000,,09:11
+B11,B,Asset manager,10000000,,09:17
+B12,B,Insurer or pension,3000000,112,09:25
+C01,C,Hedge fund,5000000,,08:12
+C02,C,Asset manager,3000000,,08:15
+C03,C,Bank treasury,2000000,155,08:21
+C04,C,Hedge fund,5000000,,08:29
+C05,C,Asset manager,3000000,,08:35
+C06,C,Bank treasury,2000000,,08:46
+C07,C,Asset manager,3000000,,08:55
+C08,C,Bank treasury,5000000,,08:59
+C09,C,Hedge fund,5000000,,09:06
+C10,C,Asset manager,4000000,,09:12
+D01,D,Asset manager,4000000,,08:11
+D02,D,Insurer or pension,4000000,,08:16
+D03,D,Hedge fund,4000000,,08:22
+D04,D,Asset manager,5000000,,08:32
+D05,D,Hedge fund,3000000,,08:39
+D06,D,Insurer or pension,2000000,,08:42
+D07,D,Asset manager,5000000,,08:55
+D08,D,Insurer or pension,4000000,,08:57
+D09,D,Asset manager,5000000,225,09:06
+E01,E,Asset manager,2000000,360,08:10
+E02,E,Hedge fund,4000000,,08:18
+E03,E,Asset manager,4000000,360,08:24
+E04,E,Hedge fund,2000000,,08:34
+E05,E,Asset manager,3000000,,08:39
+E06,E,Hedge fund,3000000,,08:46
+E07,E,Asset manager,2000000,,08:52
+E08,E,Asset manager,3000000,355,08:57
