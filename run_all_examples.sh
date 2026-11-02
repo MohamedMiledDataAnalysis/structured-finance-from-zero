@@ -66,4 +66,5 @@ echo ">> Rscript ch35/r/ch35_sec_sa.R data/thames_residential_2027_1_tape.csv"; 
 echo ">> python3 ch37/python/ch37_clo_tests.py data/ch37_clo_portfolio.csv data/ch37_clo_notes.csv"; python3 ch37/python/ch37_clo_tests.py data/ch37_clo_portfolio.csv data/ch37_clo_notes.csv > /dev/null
 echo ">> Rscript ch37/r/ch37_clo_tests.R data/ch37_clo_portfolio.csv data/ch37_clo_notes.csv"; Rscript ch37/r/ch37_clo_tests.R data/ch37_clo_portfolio.csv data/ch37_clo_notes.csv > /dev/null
 echo ">> python3 exam/python/exam_solutions.py data/exam_medway_tape.csv data/exam_medway_deal_terms.csv data/exam_medway_ipd_inputs.csv"; python3 exam/python/exam_solutions.py data/exam_medway_tape.csv data/exam_medway_deal_terms.csv data/exam_medway_ipd_inputs.csv > /dev/null
+echo ">> Rscript exam/r/exam_solutions.R data/exam_medway_tape.csv data/exam_medway_deal_terms.csv data/exam_medway_ipd_inputs.csv"; Rscript exam/r/exam_solutions.R data/exam_medway_tape.csv data/exam_medway_deal_terms.csv data/exam_medway_ipd_inputs.csv > /dev/null
 echo "All examples ran successfully."
