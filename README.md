@@ -1,5 +1,5 @@
 # Structured Finance from Zero — Book 1: UK and European Deals
-### Companion files (bonus materials)
+**Companion files (bonus materials)**
 
 These are the free companion files for the book *Structured Finance from Zero — Book 1: UK and European Deals* by Mohamed Miled. You can read the book without them; you need them to do the exercises and to rerun every calculation in the book yourself. The Final Exam's detailed worked corrections are in `exam/exam_detailed_corrections.md`.
 
@@ -13,6 +13,8 @@ These are the free companion files for the book *Structured Finance from Zero �
 | `exam/` | The Final Exam: candidate workbook, solution workbook, Python and R solutions, detailed corrections |
 | `appC/` | The set-up check described in Appendix C |
 | `tools/` | The generators that rebuild every dataset from a fixed random seed, and the builders of the workbooks |
+
+There is a chapter folder only for chapters with a workbook or scripts. Chapters 5, 17, 20, 21, 32, 33, 34, 36 and 38 have no folder: they are code-free (law, regulation, the rating committee, career), and any data they use is in `data/`. Chapter 20's sensitivity table is produced by `tools/ch20_sensitivity.py`.
 
 ## Getting started
 
