@@ -40,4 +40,9 @@ Every dataset is synthetic and generated with a published seed. Running the gene
 
 - All companies, deals, people and loan data in these files are **fictional**. Any resemblance to real entities or transactions is coincidental.
 - For education only. Nothing here is legal, tax, accounting or investment advice.
-- See `LICENSE` for the terms of use.
+- See `LICENSE` (code) and `LICENSE-TEXT.md` (written material) for the terms of use.
+
+## Licence
+
+- **Code**: MIT licence (see `LICENSE`). Reuse it freely in your own projects.
+- **Written material** (solutions, corrections, READMEs, guides, documents and data files): © 2026 Mohamed Miled, all rights reserved, like the book *Structured Finance from Zero, Book 1: UK and European Deals*. Read it and study with it; do not copy, republish or sell it (see `LICENSE-TEXT.md`).

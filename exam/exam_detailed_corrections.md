@@ -1,5 +1,7 @@
 # Final Exam — Detailed Corrections
 
+> © 2026 Mohamed Miled. All rights reserved. This text is part of the book *Structured Finance from Zero, Book 1: UK and European Deals* and may not be copied, republished or sold. The code blocks are under the MIT licence (see `LICENSE`); the explanations are not (see `LICENSE-TEXT.md`).
+
 Medway Residential 2028-1 plc is fictional and every figure is illustrative. Every number below is printed by `exam/python/exam_solutions.py` (add `--diagnostics` for the figures of the wrong answers). The R script prints the same solution output, line for line, and `exam/excel/exam_solutions.xlsx` returns the same values with live formulas.
 
 ## How to use these corrections
